@@ -1,14 +1,13 @@
 <template>
   <div>
-    <Navbar />
-    Authentication
+    <Signup />
+    <Login />
   </div>
 </template>
 
 <script>
-import Navbar from './components/Navbar';
-import Login from './components/Login';
-import Signup from './components/Signup';
+import Signup from './components/Signup.vue';
+import Login from './components/Login.vue';
 export default {
   components: { Login, Signup },
 };

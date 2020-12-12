@@ -1,7 +1,7 @@
 <template>
   <div class="navbar">
     <div class="nav-logo">
-      <li>CropBook</li>
+      <li><router-link to="/">CropBook</router-link></li>
     </div>
     <div class="nav-links">
       <li>About</li>
