@@ -15,7 +15,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .navbar {
   display: flex;
   width: 100%;
@@ -26,7 +26,7 @@ export default {};
 }
 .nav-links {
   display: flex;
-  font-weight: 400;
+  font-weight: 500;
 }
 .nav-logo {
   font-size: 1.25em;
