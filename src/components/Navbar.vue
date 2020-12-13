@@ -4,8 +4,8 @@
       <li><router-link to="/">CropBook</router-link></li>
     </div>
     <div class="nav-links">
-      <li>About</li>
-      <li>Listing</li>
+      <li><router-link to="/">Home</router-link></li>
+      <li><router-link to="/listings">Listings</router-link></li>
       <li><router-link to="/auth">Authenticate</router-link></li>
     </div>
   </div>
