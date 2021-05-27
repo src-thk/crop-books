@@ -1,4 +1,6 @@
 # crop-books
+CROP BOOKS is  platform that focuses on the growth of farmers by implying MSP and promoting alternatives to conventional farming. Also, creating mutual benefits for businesses by eliminating middle-man.
+
 
 ## Project setup
 ```
